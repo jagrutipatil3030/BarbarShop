@@ -1,0 +1,248 @@
+<!DOCTYPE html>	  
+<html lang="en">
+ <head>
+  
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet"href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <meta name="viewport" content="width =device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?
+  family=kaushan+Script|Poppins&display=swap" rel="stylesheet">	
+  <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+
+
+ </head>
+<body>
+ <section id="container">
+      <img src="logo.png" class="logo">
+  <div class="Banner-text">
+      <h1>Hair Studio</h1>
+      <p> Style Your Hair is Style Your Life </p>
+   <div class="Bannner-button">
+     <a href="find.html"> <span></span>Find Out </a>
+	 <a href="#"> <span></span>Read More </a>
+   </div>
+  </div>
+ </section>
+ <div id="sidenav">
+    <nav>
+	<ul>
+	<li><a href="#container">HOME</a></li>
+		<li><a href="#features">FEATURES</a></li>
+			<li><a href="#service">SERVICE</a></li>
+				<li><a href="#testimonial">TESTIMONIALS</a></li>
+					<li><a href="#footer">MEET US</a></li>
+	</ul>
+  </nav>
+</div>
+<div id="menuBtn">
+<img src="icon12.png" id="menu">
+</div>
+ <!-- features -->
+ <section id="features">
+ <div class="title-text">
+ <p>FEATURES</p>
+ <h1>why choose us</h1>
+ </div>
+ <div class="features-Box">
+    <div class="features">
+		<h1>Experienced Staff</h1>
+		<div class="features-description"> 
+		<div class="feature-icon">
+			 <i class="fa fa-shield"></i>
+         </div>
+		<div class="feature-text">
+			 <p> Donec eget ultricies sapi.sed porttitor,mauris
+			  ater lob facilisis, elit sapie eleifend ligula. </p>
+		</div>
+		</div>
+		<h1>Pre Booking Online</h1>
+		<div class="features-description"> 
+		<div class="feature-icon">
+			 <i class="fa fa-check-square-o"></i>
+         </div>
+		<div class="feature-text">
+			 <p> Donec eget ultricies sapi.sed porttitor,mauris
+			  ater lob facilisis, elit sapie eleifend ligula. </p>
+		</div>
+		</div>
+		<h1>Affordable Cost</h1>
+		<div class="features-description"> 
+		<div class="feature-icon">
+			 <i class="fa fa-inr"></i>
+         </div>
+		<div class="feature-text">
+			 <p> Donec eget ultricies sapi.sed porttitor,mauris
+			  ater lob facilisis, elit sapie eleifend ligula. </p>
+		</div>
+		</div>
+    </div>
+<div class="features-img">
+        <img src="image.jpeg">
+    </div>
+ </section>
+
+ <!--service -->
+	  <section id="service">
+	  <div class="title-text">
+            <p>SERVICES</p>
+            <h1>We provide Better</h1>
+      </div>
+	  <div class="service-box">
+	    <div class="single-service">
+			<img src="mmm.jpeg">
+			<div class="overlay"></div>
+			<div class="service-description">
+			 <h3> Hair Styling</h3>
+			  <hr>
+			 <p>This is test under description of barber 
+			 foundation this is test under description of
+			 barber foundation.</p>
+			
+			</div>
+	    </div>
+		<div class="single-service">
+			<img src="last1.jpeg">
+			<div class="overlay"></div>
+			<div class="service-description">
+			 <h3> Beard Trim</h3>
+			  <hr>
+			 <p>This is test under description of barber 
+			 foundation this is test under description of
+			 barber foundation.</p>
+
+		 </div>
+       </div>
+		<div class="single-service">
+		    <img src="last2.jpeg">
+			<div class="overlay"></div>
+			<div class="service-description">
+			 <h3> Hair Cut</h3>
+			  <hr>
+			 <p>This is test under description of barber 
+			 foundation this is test under description of
+			 barber foundation.</p>
+		   </div>
+
+       </div>
+		<div class="single-service">
+		    <img src="last12.jpeg">
+			<div class="overlay"></div>
+			<div class="service-description">	 
+			 <h3> Dry shapoo</h3>
+			  <hr>
+			 <p>This is test under description of barber 
+			 foundation this is test under description of
+			 barber foundation.</p>
+
+       </div>  
+	  </div>
+	</section>
+	<!--testimonial -->
+	<section id="testimonial">
+	 <div class="title-text">
+            <p>TESTIMONIAL</p>
+            <h1>What Client Says</h1>
+      </div>
+	  <div class="testimonial-row">
+	  <div class="testimonial-colm">
+	  <div class="user">
+	    <img src="my.jpeg">
+	  <div class="user-info">
+	   <h4>Vaishali patil <i class="fa fa-twitter"></i>	</h4>
+	   <small>Vaishalipatil123@gmail.com</small>
+	   </div>
+	   </div>
+		<p>Donec eget ultricies sapi. sed porttitor,mauris
+		after lob facilisis,elit sapie ekeifend ligual.donec
+		eget ultricies sapi.Donec eget ultricies sapi. sed
+		porttitor,mauris after lob ekeifend ligual Donec
+		eget ultricies sapi. facilisis,elit sapie </p>
+
+	  </div>
+	  <div class="testimonial-colm">
+	  <div class="user">
+	    <img src="kalu.jpeg">
+	  <div class="user-info">
+	   <h4>kalyani patil<i class="fa fa-twitter"></i></h4>
+	   <small>kalyani113@gmail.com</small>
+	   </div>
+	   </div>
+		<p> Donec eget ultricies sapi. sed porttitor,mauris
+		after lob facilisis,elit sapie ekeifend ligual.donec
+		eget ultricies sapi. Donec eget ultricies sapi.
+		</p>
+	  </div>
+	  <div class="testimonial-colm">
+	  <div class="user">
+	    <img src="jayu.jpeg">
+	  <div class="user-info">
+	   <h4>jayeshri savle  <i class="fa fa-twitter"></i></h4>
+	   <small>jayeshri555@gmail.com</small>
+	   </div>
+	   </div>
+		<p>Donec eget ultricies sapi. sed porttitor,mauris
+		after lob facilisis,elit sapie ekeifend ligual.donec
+		eget ultricies sapi.Donec eget ultricies sapi. sed
+		porttitor,mauris after lob ekeifend ligual Donec
+		eget ultricies sapi. facilisis,elit sapie. 
+		</p>
+		</div>
+	  </div>
+	</section>
+	<!--footer -->
+	<section id ="footer">
+	<img src="back.jpeg" class="footer-img">
+	  <div class="title-text">
+            <p>CONTACT</p>
+            <h1>Visit Shop Today</h1>
+      </div>
+	  <div class="footer-row">
+	  <div class="footer-left">
+		<h1>Opening Hours</h1>
+		<p> <i class="fa fa-clock-o"></i>Monday to Friday - 9am to 9pm</p>
+	    <p>  <i class="fa fa-clock-o"></i>Saturday to Sunday  - 8am to 11pm</p>
+	  </div>
+	  <div class="footer-right">
+		<h1>Get In Touch</h1>
+		<p>#23 abc colony, xyz City IN <i class="fa fa-map-marker"></i></p>
+		<p>patiljagu123@gmail.com <i class="fa fa-paper-plane"></i></p>
+		<p>+01 1874651265 <i class="fa fa-phone"></i></p>
+	  </div>
+	  </div>
+	  <div class="social-links">
+	  <i class="fa fa-facebook"></i>
+	   <i class="fa fa-instagram"></i>
+	    <i class="fa fa-twitter"></i>
+		 <i class="fa fa-youtube-play"></i>
+		 </div>
+	</section>
+ <script>
+	var menuBtn = document.getElementById("menuBtn")
+	var sidenav = document.getElementById("sidenav")
+	var menu = document.getElementById("menu")
+  
+  sidenav.style.right="-250px";
+
+ menuBtn.onclick = function(){
+		 if(sidenav.style.right == "-250px"){
+			  sidenav.style.right = "0";
+			  menu.src="icon.png";
+			 }	  
+			  else{
+			 	    sidenav.style.right = "-250px";
+				    menu.src="icon12.png";
+				  }
+				  }
+
+
+var scroll = new SmoothScroll('a[href*="#"]', {
+	speed: 1000
+});
+
+
+</script>
+
+		 
+</body>			
+</html>
